@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning DS ALGO/C++
 - 💞️ I’m looking to collaborate on GSOC/ youtube
 - 📫 How to reach me harshulnanwani@gmail.com 
-linkdin profile @www.linkedin.com/in/harshulnanwani2611
-instagram profile @harshul.nanwani26
+-  linkdin profile @www.linkedin.com/in/harshulnanwani2611
+-  instagram profile @harshul.nanwani26
 
